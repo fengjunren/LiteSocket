@@ -105,4 +105,4 @@ class MyDataHandler: DataHandler() {
   
     
       
- [socket 调试工具下载](/tools/SocketTool4.7z)
+ [socket 调试工具下载](https://raw.githubusercontent.com/fengjunren/LiteSocket/master/tools/SocketTool4.7z)
