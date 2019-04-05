@@ -5,8 +5,8 @@
 
 ## 预览
 ### long socket：
-![预览](/img/socketlong.gif)  
-  
+![预览]<img src="/img/socketlong.gif" width="70%" height="70%">
+
   
 ### short socket：
-![预览](/img/socket.gif)
+![预览]<img src="/img/socket.gif" width="70%" height="70%">
