@@ -74,6 +74,7 @@
 ```
 LiteLongSocket.instance.send(byteArray)
 ```
+    可在多个页面分别接收
 ```
 listenerId= LiteLongSocket.instance.receive(object : OnReceiveListener(){
                 override fun eventChanged(msgEvent: MsgEvent) {
